@@ -1,0 +1,74 @@
+body {background-color:#000000;}
+.loginpage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+.shoe{
+height: 40vh;
+opacity: 0.7;
+}
+.logincontainer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+object-fit: contain;
+}
+.log-in
+{
+color:#ffffff;
+font-family: "Kadwa", serif;
+font-weight: 700;
+font-size:84px;
+}
+.inpbox
+{
+background-color:#0e0e0e;
+height:58px;
+width:536px;
+border:1px solid #c1c1c1;
+font-family: "Kadwa", serif;
+color: #ffffff;
+padding-left: 10px;
+}
+.contbtn
+{
+background-color:#701010;
+height:45px;
+width:470px;
+color:#a06e6e;
+font-size:20px;
+font-family: "Kadwa", serif;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.contbtn:hover{
+    background-color:#a06e6e;
+    color:#701010;
+}
+.signup
+{
+color:#a06e6e;
+font-size:20px;
+font-family: "Kadwa", serif;
+width:87px;
+height:40px;
+line-height:auto;
+outline:none;
+}
+.dectext{
+    font-size: 12px;
+    color: #ffffff;
+    font-family: "Kadwa", serif;
+}
+
+
+
+
+
+
+
